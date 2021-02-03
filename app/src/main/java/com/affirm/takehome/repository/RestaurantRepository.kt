@@ -1,4 +1,10 @@
 package com.affirm.takehome.repository
 
-class RestaurantRepository {
+import android.app.Application
+
+private const val TAG = "RestaurantRepository"
+
+class RestaurantRepository(application: Application) {
+
+
 }
